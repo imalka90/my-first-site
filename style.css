@@ -1,0 +1,11 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+h1 { border-bottom: 2px solid #f38020; padding-bottom: 10px; }
